@@ -1,0 +1,15 @@
+{
+  "name": "retyped-dropzone-tsd-ambient",
+  "description": "TypeScript typings for dropzone",
+  "version": "4.0.1-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/dropzone-tsd-ambient",
+  "typescript": {
+    "definition": "dropzone.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
