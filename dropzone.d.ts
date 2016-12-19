@@ -171,7 +171,7 @@ declare class Dropzone {
 
 	createThumbnail(file:DropzoneFile, callback?:(...args:any[]) => void):any;
 
-	createThumbnailFromUrl(file:DropzoneFile, url:string, callback?:(...args:any[]) => void):any;
+	createThumbnailFromUrl(file:DropzoneFile, url:string, callback?:(...args:any[]) => void, crossOrigin?:string):any;
 
 	on(eventName:string, callback:(...args:any[]) => void):void;
 
